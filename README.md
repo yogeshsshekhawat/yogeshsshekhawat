@@ -71,25 +71,9 @@ Beyond web development, I am heavily engaged in competitive programming, consist
   
 - **Database:** MongoDB, Redis
   
-- **DevOps:** Docker, Git, CI/CD
-  
-- **Cloud:** AWS, GCD, Cloudflare
+- **Cloud:** AWS
 
-## 🎨 Featured Projects
 
-### [StoreMyStuff](https://github.com/KunalKhandekar/Storage-App)
-> Full-stack cloud storage platform combining modern web tech with AWS infrastructure
-
-**Tech Stack:** MERN Stack, AWS S3, Redis, Razorpay
-
-**Key Features:**
-- Secure user registration and login system
-- Drag-and-drop file upload with progress indicators
-- File sharing with links and permissions
-- Folder creation and organization
-- File preview and download capabilities
-- Responsive design for mobile and desktop
-- Storage quota management
 
 
 
